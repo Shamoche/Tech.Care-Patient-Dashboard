@@ -1,0 +1,15 @@
+Tech.Care Patient Dashboard
+This project is a web application that displays patient information and diagnosis history using data fetched from the Coalition Technologies Patient Data API. The user interface is designed based on an Adobe XD template.
+Features
+- Patient information display
+- Vital signs including blood pressure, respiratory rate, temperature, and heart rate
+- Blood pressure chart using Chart.js
+- Provider information section
+- Responsive design
+Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Chart.js (for charts)
+- Fetch API (for making API calls)
+
